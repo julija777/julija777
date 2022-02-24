@@ -6,7 +6,7 @@
 ### I'm a junior Software Developer using JS, React, Node.js and other libraries and frameworks in my Projects.
 
 
-
+My Portfolio (in progress during March 2022) is here: https://julija777.github.io/MyPortfolio/
 
 Download my CV here:
 --> https://github.com/julija777/julija777/files/8132723/JulijaStepanovaCV_with_Pic.pdf
