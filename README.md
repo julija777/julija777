@@ -3,11 +3,17 @@
 
 
 # Hi there 👋
-## My name is Julija Stepanova, 
+## My name is Julija Stepanova. 
+
 ## I'm a Junior Software Developer using JS, React, Node.js and other libraries and frameworks in my Projects.
 
 
 My Portfolio (in progress during March 2022) is here: https://julija777.github.io/MyPortfolio/
+
+Here is my LinkedIn:  <a href="https://www.linkedin.com/in/julia-stepanova-software-engineer">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="alternate text"
+width="30px">
+</a>
 
 Download my CV here:
 --> https://github.com/julija777/julija777/files/8172506/JulijaStepanovaCV_with_Pic.pdf
