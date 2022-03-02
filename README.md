@@ -10,13 +10,13 @@
 My Portfolio (in progress during March 2022) is here: https://julija777.github.io/MyPortfolio/
 
 Download my CV here:
---> https://github.com/julija777/julija777/files/8132723/JulijaStepanovaCV_with_Pic.pdf
+--> https://github.com/julija777/julija777/files/8172506/JulijaStepanovaCV_with_Pic.pdf
+
 
 
 
 Find my CV right here:
-<img src="https://user-images.githubusercontent.com/32721917/155531632-a4ab9481-4418-4696-b496-e12a0dd1bbbc.png" width="1000">
-
+<img src="https://user-images.githubusercontent.com/32721917/156439657-1f66fe82-af76-4090-80ca-921372f3151a.png" width="1000">
 
 
 
