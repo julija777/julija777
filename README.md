@@ -31,12 +31,14 @@
 
 
 My Portfolio: https://julija777.github.io/MyPortfolio/
-
+<br>
+<br>
+<br>
+<br>
 LinkedIn:  <a href="https://www.linkedin.com/in/julia-stepanova-software-engineer">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="alternate text"
 width="30px">
 </a>
-<br>
 <br>
 <br>
 <br>
