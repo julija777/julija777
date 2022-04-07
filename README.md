@@ -4,6 +4,7 @@
 <br>
 <img src="https://www.codewars.com/users/julija777/badges/large">
 <br>
+![Julija777 github stats](https://github-readme-stats.vercel.app/api?username=julija777&count_private=true&theme=tokyonight&hide=prs)
 <br>
 <br>
 
