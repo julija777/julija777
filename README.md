@@ -23,7 +23,7 @@
 
 ![Julija777 github stats](https://github-readme-stats.vercel.app/api?username=julija777&count_private=true&theme=tokyonight&hide=prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julija777&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julija777&layout=compact&theme=radical)
  
 <br>
 
