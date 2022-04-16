@@ -30,18 +30,15 @@
 
 
 
-My Portfolio: https://julija777.github.io/MyPortfolio/
-<br>
-<br>
+My Portfolio: https://julija777.github.io/MyPortfolio/.     
 <br>
 <br>
 LinkedIn:  <a href="https://www.linkedin.com/in/julia-stepanova-software-engineer">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="alternate text"
 width="30px">
+ <br>
+<br>
 </a>
-<br>
-<br>
-<br>
 My CV is here:
 --> https://github.com/julija777/julija777/files/8172506/JulijaStepanovaCV_with_Pic.pdf
 <!---  
