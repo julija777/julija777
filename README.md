@@ -11,7 +11,7 @@
 ## My name is Julija Stepanova. 
 
 ## I'm a Junior Software Developer using JS, React, Node.js in my projects.
-## I've graduated 8 Cohort of School of Code Bootcamp and I'm ready to join a lovely team where I can persistently imrove my Software Developmet skills.
+## I've graduated 8 Cohort of School of Code Bootcamp and I'm ready to join a team where I can persistently improve my Software Development skills.
 
  <br>
  
