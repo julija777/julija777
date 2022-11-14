@@ -11,7 +11,7 @@
 ## My name is Julija Stepanova. 
 
 ## I'm a Software Developer using JS, React, Node.js in my projects.
-## School of Code 8th Cohort March 2021 graduate. I persistantly grow my knowlage in Web and Mobile Development.
+## School of Code 8th Cohort March 2022 graduate. I persistantly grow my knowlage in Web and Mobile Development.
 ## I am working in Agile Teams, using Scrum methodology.
 
 
