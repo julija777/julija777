@@ -40,13 +40,10 @@ LinkedIn:  <a href="[https://www.linkedin.com/in/julia-stepanova-software-engine
  <br>
 <br>
 </a>
-My CV is here:
---> https://github.com/julija777/julija777/files/8172506/JulijaStepanovaCV_with_Pic.pdf
 <!---  
 <br>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/32721917/156439657-1f66fe82-af76-4090-80ca-921372f3151a.png" width="1000">
 ---> 
 
 
