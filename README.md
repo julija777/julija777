@@ -10,7 +10,7 @@
 # Hi there 👋
 ## My name is Julija Stepanova. 
 
-## I'm a Software Developer using JS, React, Node.js in my projects.
+## I'm a Software Developer using JS, React, ReactNative, Next.js and Node.js in my projects.
 ## I persistantly grow my knowlage in Web and Mobile Development. 
 ## I am working in Agile Teams, using Scrum methodology.
 
