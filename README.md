@@ -14,6 +14,8 @@
 ## I persistantly grow my knowlage in Web and Mobile Development. 
 ## I am working in Agile Teams, using Scrum methodology.
 
+#### Since 2022 I am working for AND.Digital and most of my commits are now secured in GitLab or AzureDevOps, but I like GitHub and will try my best not to abandon this account. 
+
 
  <br>
  
