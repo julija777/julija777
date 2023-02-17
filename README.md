@@ -37,9 +37,9 @@
 My Portfolio: https://julija777.github.io/MyPortfolio/.     
 <br>
 <br>
-LinkedIn:  <a href="[https://www.linkedin.com/in/julia-stepanova-software-engineer](https://uk.linkedin.com/in/julia-stepanova-software-engineer?trk=profile-badge)">
+LinkedIn:  <a href="[]()">
 <a href="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="julia-stepanova-software-engineer" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/julia-stepanova-software-engineer?trk=profile-badge">Julia Stepanova LinkedIn</a>
+  <a class="badge-base__link LI-simple-link" href="HTTP://uk.linkedin.com/in/julija777">Julia Stepanova LinkedIn</a>
               
  <br>
 <br>
