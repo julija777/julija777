@@ -11,7 +11,8 @@
 # Hi there 👋
 ## My name is Julija Stepanova. 
 
-#### I'm a Software Developer with extensive experience in JavaScript, React, React Native, Next.js, and Node.js.
+#### I’m a Software Developer with extensive experience in JavaScript, React, React Native, and TypeScript. 
+#### I’m also well-versed in UI libraries like Tamagui and Gluestack, along with styling frameworks like Tailwind CSS. 
 #### I am consistently expanding my expertise in Web and Mobile Development, with a strong focus on best practices and cutting-edge technologies.
 #### I thrive in Agile environments, contributing effectively within Scrum teams to deliver high-quality, scalable solutions.
 #### I am passionate about continuous learning, code quality, and collaborating with cross-functional teams to solve complex challenges.
