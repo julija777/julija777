@@ -1,6 +1,8 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/32721917/154956165-8d13e348-ef0b-4a88-8233-8a16d5e4e116.png" width="150">
 <img src="https://user-images.githubusercontent.com/32721917/154956018-4935c889-80ef-44c3-8e15-967676af7e77.png" width="50">
+<img src="https://github.com/expo/expo/blob/main/.github/resources/banner.png" width="50">
+ 
 <img src="https://www.svgrepo.com/show/452233/ios.svg" width="50">
 <img src="https://www.svgrepo.com/show/475631/android-color.svg" width="50">
 <img src="https://user-images.githubusercontent.com/32721917/154956136-db9ef1cc-112d-4c1d-a7c2-f6d3bbd14e88.png" width="70">                                         
@@ -10,6 +12,10 @@
 <img src="https://user-images.githubusercontent.com/32721917/154956259-120545bd-f2f5-4841-aa49-e3caa24e4eee.png" width="50">              
 <img alt="graphql" color="#111111" fetchpriority="high" width="50" height="50" decoding="async" data-nimg="1" src="https://web.haystackapp.io/icons/techs/mark/light/graphql.svg" style="color: transparent; object-fit: cover;">
 <img src="https://user-images.githubusercontent.com/32721917/154956269-072b3cc4-d24f-4ff1-aa99-052e2183ee75.png" width="50">
+<img src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_256x256.png" width="50">
+<img src="https://github.com/jestjs/jest/blob/dc9f98cae4ee990f77e92ebf186948ca4983a61a/website/static/img/jest-card-run.svg" width="40">
+
+
 
  
 <br>
