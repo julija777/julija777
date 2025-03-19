@@ -7,14 +7,12 @@
 <img src="https://www.svgrepo.com/show/475631/android-color.svg" width="50">
 <img src="https://user-images.githubusercontent.com/32721917/154956136-db9ef1cc-112d-4c1d-a7c2-f6d3bbd14e88.png" width="70">                                         
 <img src="https://user-images.githubusercontent.com/32721917/154956183-0d4d1b29-fb98-4073-8b56-4a6712d27fd8.png" width="50">
-<img alt="SQL" fetchpriority="high" width="50" height="50" decoding="async" data-nimg="1" src="https://web.haystackapp.io/icons/techs/mark/light/sql.svg" style="color: transparent; object-fit: cover;">
 <img src="https://user-images.githubusercontent.com/32721917/154956259-120545bd-f2f5-4841-aa49-e3caa24e4eee.png" width="50">        
 <img src="https://user-images.githubusercontent.com/32721917/154956235-c4d75c16-9271-4a49-b26a-d3207d232734.png" width="50">              
-<img alt="graphql" color="#111111" fetchpriority="high" width="50" height="50" decoding="async" data-nimg="1" src="https://web.haystackapp.io/icons/techs/mark/light/graphql.svg" style="color: transparent; object-fit: cover;">
 <img src="https://user-images.githubusercontent.com/32721917/154956269-072b3cc4-d24f-4ff1-aa99-052e2183ee75.png" width="50">
 <img src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_256x256.png" width="50">
 <img src="https://github.com/jestjs/jest/blob/dc9f98cae4ee990f77e92ebf186948ca4983a61a/website/static/img/jest-card-run.svg" width="40">
-<img src="https://web.haystackapp.io/icons/techs/mark/light/git.svg" width="40">
+
 
 
 
