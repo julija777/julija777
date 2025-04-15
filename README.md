@@ -40,8 +40,8 @@
 <br>
 
 
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=julija777&theme=radical&show_icons=true&rank_icon=github&show=prs_merged_percentage&hide=issues,contribs&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julija777&layout=compact&theme=radical)
  
 <br>
 
